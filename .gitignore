@@ -1,0 +1,11 @@
+# ここに記載したファイル(セキュリティ上公開したくないファイル(データベースや環境変数など))は公開されない
+myvenv
+db.sqlite3
+.vscode
+__pycache__
+*.pyc
+.DS_Store
+.env
+local_settings.py
+ngrok
+command.txt
